@@ -1,10 +1,21 @@
 <channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]1 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<channel><name>[COLOR green]|| [/COLOR][COLOR white]The Ark [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]1 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/main/THE-ARK-1-TEMPORADA</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/sO7KAQiKvyoyHRavzGvNBNXvpkm.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2023[/B][/COLOR]
 [COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Ficção[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - 100 anos no futuro, as missões de colonização planetária começaram como uma necessidade para ajudar a garantir a sobrevivência da raça humana. A primeira dessas missões em uma espaçonave conhecida como Ark One encontra um evento catastrófico que causa destruição em massa e perda de vidas. Faltando mais de um ano para chegar ao planeta-alvo, falta de suprimentos para sustentar a vida e perda de liderança, a tripulação restante deve se tornar a melhor versão de si mesma para permanecer no curso e sobreviver.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
+<channel><name>[COLOR green]|| [/COLOR][COLOR white]The Ark [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]2 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/chwOLOn5HJiABTL7hLBsD4WCgHg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/THE-ARK-2-TEMPORADA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/nUEcobWsTpvOh23US0MRZXIU8jt.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2024[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Ficção[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Na segunda temporada, depois que a corajosa tripulação da Ark One chega ao seu destino e o descobre inabitável, eles precisam sobreviver o suficiente para encontrar um novo lar para si e para todas as naves que os seguem. [/B][/COLOR]</info>
 </channel> 
 </channels>
